@@ -9,7 +9,7 @@ const printCompilationMessage = require('./compilation.config.js');
 
 module.exports = (_, argv) => ({
   output: {
-    publicPath: "https://66f7111b3c30e0d01b3397eb--spectacular-frangollo-6ed192.netlify.app/",
+    publicPath: "https://mf-colorpickerkh.netlify.app/",
   },
 
   resolve: {
